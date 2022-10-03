@@ -12,7 +12,7 @@
 
 ![CI](https://github.com/pasanjg/Forecast/workflows/CI/badge.svg)
 
-## Preview
+
 
 
 
