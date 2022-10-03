@@ -1,4 +1,7 @@
+A weather app which works with Firebase authentication and it uses cloud firestore for storage.
 
+ -> In this App users can login,sign up,and fetch weather details of their desired  locations all around the globe ,even users can set their favourite locations.
+ -> It has beautiful UI with rave animations,splash screen
 
 
 
