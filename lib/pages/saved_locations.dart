@@ -1,12 +1,12 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:forecast/utils/common/common_utils.dart';
-import 'package:forecast/widgets/error/no_saved.dart';
-import 'package:forecast/pages/home.dart';
-import 'package:forecast/utils/animations/FadeAnimation.dart';
-import 'package:forecast/utils/common/constants.dart';
-import 'package:forecast/widgets/background/default_gradient.dart';
+import 'package:forecasting/utils/common/common_utils.dart';
+import 'package:forecasting/widgets/error/no_saved.dart';
+import 'package:forecasting/pages/home.dart';
+import 'package:forecasting/utils/animations/FadeAnimation.dart';
+import 'package:forecasting/utils/common/constants.dart';
+import 'package:forecasting/widgets/background/default_gradient.dart';
 
 class SavedLocationsPage extends StatefulWidget {
   @override
