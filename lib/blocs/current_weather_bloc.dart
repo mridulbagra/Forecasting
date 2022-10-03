@@ -1,7 +1,7 @@
 import 'dart:async';
-import 'package:forecast/models/weather_model.dart';
+import 'package:forecasting/models/weather_model.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:forecast/resources/repository.dart';
+import 'package:forecasting/resources/repository.dart';
 
 /// Code for BLoC Pattern referred from a Medium post.
 /// See <https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1> for source.
