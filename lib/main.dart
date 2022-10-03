@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:forecast/utils/themes/app_theme.dart';
-import 'package:forecast/utils/themes/themes.dart';
+import 'package:forecasting/utils/themes/app_theme.dart';
+import 'package:forecasting/utils/themes/themes.dart';
 
-import 'package:forecast/pages/splashscreen.dart';
+import 'package:forecasting/pages/splashscreen.dart';
 
 void main() {
   runApp(
@@ -33,7 +33,7 @@ class _ForecastState extends State<Forecast> {
     ]);
 
     return MaterialApp(
-      title: "Forecast",
+      title: "forecasting",
       theme: AppTheme.of(context) == null
           ? AppThemes.setCurrentDynamicTheme()
           : AppTheme.of(context),
