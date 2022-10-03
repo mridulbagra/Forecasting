@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "846809665977",
-    "firebase_url": "https://forecast-60bff.firebaseio.com",
-    "project_id": "forecast-60bff",
-    "storage_bucket": "forecast-60bff.appspot.com"
+    "firebase_url": "https://forecasting-60bff.firebaseio.com",
+    "project_id": "forecasting-60bff",
+    "storage_bucket": "forecasting-60bff.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:846809665977:android:d05bd6bdec5a50fd7ee668",
         "android_client_info": {
-          "package_name": "lk.sliit.forecast"
+          "package_name": "lk.sliit.forecasting"
         }
       },
       "oauth_client": [
