@@ -1,4 +1,4 @@
-import 'package:forecast/models/weather_model.dart';
+import 'package:forecasting/models/weather_model.dart';
 
 class WeatherForecastModel {
   String _cod;
