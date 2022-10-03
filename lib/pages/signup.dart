@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:forecast/utils/common/common_utils.dart';
-import 'package:forecast/utils/common/constants.dart';
-import 'package:forecast/widgets/background/default_gradient.dart';
+import 'package:forecasting/utils/common/common_utils.dart';
+import 'package:forecasting/utils/common/constants.dart';
+import 'package:forecasting/widgets/background/default_gradient.dart';
 
 class SignupPage extends StatefulWidget {
   @override
