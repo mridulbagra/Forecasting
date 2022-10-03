@@ -1,5 +1,5 @@
-import 'package:forecast/models/weather_forecast_model.dart';
-import 'package:forecast/models/weather_model.dart';
+import 'package:forecasting/models/weather_forecast_model.dart';
+import 'package:forecasting/models/weather_model.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
