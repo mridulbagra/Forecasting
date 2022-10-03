@@ -5,6 +5,9 @@ A weather app which works with Firebase authentication and it uses cloud firesto
 
 
 
+
+
+
 <p align="center">
     <img src="https://img.shields.io/badge/Awesome-Flutter-%231389fd?style=for-the-badge"/>
     <img src="https://img.shields.io/github/issues/pasanjg/Forecast?style=for-the-badge"/>
