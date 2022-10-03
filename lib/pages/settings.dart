@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:forecast/utils/common/constants.dart';
-import 'package:forecast/utils/common/common_utils.dart';
-import 'package:forecast/utils/common/shared_preferences.dart';
-import 'package:forecast/widgets/background/default_gradient.dart';
+import 'package:forecasting/utils/common/constants.dart';
+import 'package:forecasting/utils/common/common_utils.dart';
+import 'package:forecasting/utils/common/shared_preferences.dart';
+import 'package:forecasting/widgets/background/default_gradient.dart';
 
 class SettingsPage extends StatefulWidget {
   @override
