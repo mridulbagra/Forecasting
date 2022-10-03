@@ -15,11 +15,11 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>lk.sliit.forecast</string>
+	<string>lk.sliit.forecasting</string>
 	<key>PROJECT_ID</key>
-	<string>forecast-60bff</string>
+	<string>forecasting-60bff</string>
 	<key>STORAGE_BUCKET</key>
-	<string>forecast-60bff.appspot.com</string>
+	<string>forecasting-60bff.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,6 +33,6 @@
 	<key>GOOGLE_APP_ID</key>
 	<string>1:846809665977:ios:b835d57e0636ef297ee668</string>
 	<key>DATABASE_URL</key>
-	<string>https://forecast-60bff.firebaseio.com</string>
+	<string>https://forecasting-60bff.firebaseio.com</string>
 </dict>
 </plist>
