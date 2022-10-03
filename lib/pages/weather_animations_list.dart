@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flare_flutter/flare_actor.dart';
-import 'package:forecast/utils/common/constants.dart';
-import 'package:forecast/widgets/background/default_gradient.dart';
+import 'package:forecasting/utils/common/constants.dart';
+import 'package:forecasting/widgets/background/default_gradient.dart';
 
 class WeatherAnimationsPage extends StatefulWidget {
   @override
