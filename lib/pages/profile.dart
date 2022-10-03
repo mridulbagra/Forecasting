@@ -3,15 +3,15 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:forecast/models/user.dart';
-import 'package:forecast/utils/common/common_utils.dart';
-import 'package:forecast/utils/common/constants.dart';
-import 'package:forecast/utils/common/user_service.dart';
+import 'package:forecasting/models/user.dart';
+import 'package:forecasting/utils/common/common_utils.dart';
+import 'package:forecasting/utils/common/constants.dart';
+import 'package:forecasting/utils/common/user_service.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:file_picker/file_picker.dart';
-import 'package:forecast/widgets/background/default_gradient.dart';
+import 'package:forecasting/widgets/background/default_gradient.dart';
 
 class ProfilePage extends StatefulWidget {
   @override
