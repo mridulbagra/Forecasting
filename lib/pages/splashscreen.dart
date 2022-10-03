@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flare_flutter/flare_actor.dart';
 
-import 'package:forecast/pages/home.dart';
+import 'package:forecasting/pages/home.dart';
 
 
 /// Code referred from a Medium post.
