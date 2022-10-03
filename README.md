@@ -30,7 +30,7 @@
   <tr>
     <td><img src="./assets/readme/06.png"/></td>
     <td><img src="./assets/readme/07.png"/></td>
-    <td><img src="./assets/readme/08.png"/></td>
+
    
   </tr>
 </table>
