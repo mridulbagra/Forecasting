@@ -14,9 +14,7 @@
 
 ## Preview
 
-<p align="center">
-    <img width="300" src="./assets/readme/preview.gif"/>
-</p>
+
 
 
 ## Screenshots
