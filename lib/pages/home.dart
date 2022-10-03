@@ -1,21 +1,21 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:forecast/pages/saved_locations.dart';
-import 'package:forecast/pages/weather_animations_list.dart';
-import 'package:forecast/pages/login.dart';
-import 'package:forecast/utils/common/constants.dart';
+import 'package:forecasting/pages/saved_locations.dart';
+import 'package:forecasting/pages/weather_animations_list.dart';
+import 'package:forecasting/pages/login.dart';
+import 'package:forecasting/utils/common/constants.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'dart:convert' as convert;
 
-import 'package:forecast/models/user.dart';
-import 'package:forecast/utils/common/user_service.dart';
+import 'package:forecasting/models/user.dart';
+import 'package:forecasting/utils/common/user_service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:forecast/pages/current_weather.dart';
-import 'package:forecast/pages/settings.dart';
-import 'package:forecast/widgets/background/default_gradient.dart';
-import 'package:forecast/pages/profile.dart';
+import 'package:forecasting/pages/current_weather.dart';
+import 'package:forecasting/pages/settings.dart';
+import 'package:forecasting/widgets/background/default_gradient.dart';
+import 'package:forecasting/pages/profile.dart';
 
 class HomePage extends StatefulWidget {
   final String cityName;
