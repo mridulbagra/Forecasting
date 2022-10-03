@@ -45,9 +45,3 @@
 Flare Animations created with [<img width="15" src="https://avatars0.githubusercontent.com/u/58453772?s=200&v=4"/>   Rive](https://rive.app/)
 
 
-
-## Contributors
-
-<a href="https://github.com/pasanjg/Forecast/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=pasanjg/Forecast" />
-</a>
