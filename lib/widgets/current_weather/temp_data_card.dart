@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:forecast/widgets/current_weather/card_data.dart';
+import 'package:forecasting/widgets/current_weather/card_data.dart';
 
 class TempDataCard extends StatelessWidget {
   final Color cardColor;
