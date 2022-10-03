@@ -7,14 +7,14 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:forecast/blocs/weather_forecast_bloc.dart';
-import 'package:forecast/models/openweathermap_api.dart';
-import 'package:forecast/models/weather_forecast_model.dart';
-import 'package:forecast/models/weather_model.dart';
-import 'package:forecast/utils/common/common_utils.dart';
-import 'package:forecast/utils/common/constants.dart';
-import 'package:forecast/utils/common/shared_preferences.dart';
-import 'package:forecast/widgets/loading/weather_forecast_loading.dart';
+import 'package:forecasting/blocs/weather_forecast_bloc.dart';
+import 'package:forecasting/models/openweathermap_api.dart';
+import 'package:forecasting/models/weather_forecast_model.dart';
+import 'package:forecasting/models/weather_model.dart';
+import 'package:forecasting/utils/common/common_utils.dart';
+import 'package:forecasting/utils/common/constants.dart';
+import 'package:forecasting/utils/common/shared_preferences.dart';
+import 'package:forecasting/widgets/loading/weather_forecast_loading.dart';
 import 'package:intl/intl.dart';
 
 class WeatherForecastPage extends StatefulWidget {
