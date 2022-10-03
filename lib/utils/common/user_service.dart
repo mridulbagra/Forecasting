@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:forecast/models/user.dart';
+import 'package:forecasting/models/user.dart';
 
 final CollectionReference userCollection =
     Firestore.instance.collection('users');
