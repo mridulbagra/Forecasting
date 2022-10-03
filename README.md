@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="./assets/readme/cover.png"/>
-</p>
+
 
 
 
