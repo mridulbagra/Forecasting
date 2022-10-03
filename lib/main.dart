@@ -8,7 +8,7 @@ import 'package:forecasting/pages/splashscreen.dart';
 void main() {
   runApp(
     AppTheme(
-      child: Forecast(),
+      child: forecasting(),
     ),
   );
 }
