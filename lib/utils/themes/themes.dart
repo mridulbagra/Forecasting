@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:forecast/utils/common/common_utils.dart';
-import 'package:forecast/utils/common/constants.dart';
+import 'package:forecasting/utils/common/common_utils.dart';
+import 'package:forecasting/utils/common/constants.dart';
 
 /// Code referred from a Medium post.
 /// See <https://medium.com/flutter-community/dynamic-theming-with-flutter-78681285d85f> for source.
